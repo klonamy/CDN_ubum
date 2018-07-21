@@ -1,0 +1,20 @@
+! Version: 0.0.1
+! Title: KlonAmy CDN Allow List
+! Expires: 7 days (update frequency)
+
+! --------------------------General rules-----------------------------!
+* ajax.googleapis.com * noop
+* ajax.aspnetcdn.com * noop
+* ajax.microsoft.com * noop
+* cdnjs.cloudflare.com * noop
+* code.jquery.com * noop
+* cdn.jsdelivr.net * noop
+* yastatic.net * noop
+* yandex.st * noop
+* apps.bdimg.com * noop
+* libs.baidu.com * noop
+* lib.sinaapp.com * noop
+* upcdn.b0.upaiyun.com * noop
+* cdn.bootcss.com * noop
+* sdn.geekzu.org * noop
+* ajax.proxy.ustclug.org * noop
