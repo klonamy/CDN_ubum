@@ -19,9 +19,10 @@
 * sdn.geekzu.org * noop
 * ajax.proxy.ustclug.org * noop
 
-! --------------------------CDN-----------------------------!
+! --------------------------CDN?-----------------------------!
 * aolcdn.com * noop
 * vidible.tv * noop
 
 ! --------------------------Others-----------------------------!
 * yimg.com * noop
+* aiv-cdn.net * noop
