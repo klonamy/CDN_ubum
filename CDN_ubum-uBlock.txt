@@ -1,6 +1,6 @@
-! Version: 0.0.7
+! Version: 0.0.8
 ! Title: KlonAmy CDN Allow List
-! Expires: 7 days (update frequency)
+! Expires: 1 days (update frequency)
 
 ! --------------------------General rules-----------------------------!
 * ajax.googleapis.com * noop
@@ -25,6 +25,13 @@
 * aiv-cdn.net * noop
 * cdn.pushwoosh.com * noop
 * fsdn.com * noop
+* cursecdn.com* noop
+
 
 ! --------------------------Others-----------------------------!
 * yimg.com * noop
+* cursetech.com * noop
+* creativecommons.org * noop
+
+! --------------------------Template-----------------------------!
+*  * noop
