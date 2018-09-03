@@ -1,4 +1,4 @@
-! Version: 0.0.1
+! Version: 0.0.7
 ! Title: KlonAmy CDN Allow List
 ! Expires: 7 days (update frequency)
 
@@ -22,7 +22,9 @@
 ! --------------------------CDN?-----------------------------!
 * aolcdn.com * noop
 * vidible.tv * noop
+* aiv-cdn.net * noop
+* cdn.pushwoosh.com * noop
+* fsdn.com * noop
 
 ! --------------------------Others-----------------------------!
 * yimg.com * noop
-* aiv-cdn.net * noop
