@@ -1,4 +1,4 @@
-! Version: 0.1.0
+! Version: 0.1.1
 ! Title: KlonAmy CDN Allow List
 ! Expires: 1 days (update frequency)
 
@@ -28,6 +28,7 @@
 * cursecdn.com* noop
 * tiqcdn.com * noop
 * gjcdn.net * noop
+* f-cdn.gamejolt.net * noop
 
 
 ! --------------------------Others-----------------------------!
