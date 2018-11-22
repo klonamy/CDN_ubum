@@ -29,7 +29,7 @@
 * tiqcdn.com * noop
 * gjcdn.net * noop
 * f-cdn.gamejolt.net * noop
-
+* static.twitchcdn.net * noop
 
 ! --------------------------Others-----------------------------!
 * yimg.com * noop
