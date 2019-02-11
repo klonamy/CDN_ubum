@@ -1,4 +1,4 @@
-! Version: 0.1.2
+! Version: 0.1.4
 ! Title: KlonAmy CDN Allow List
 ! Expires: 1 days (update frequency)
 
@@ -38,6 +38,8 @@
 * yimg.com * noop
 * cursetech.com * noop
 * creativecommons.org * noop
+* stripe.com * noop
+* twitch.tv * noob
 
 ! --------------------------Template-----------------------------!
 *  * noop
