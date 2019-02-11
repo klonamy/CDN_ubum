@@ -1,4 +1,4 @@
-! Version: 0.1.4
+! Version: 0.1.5
 ! Title: KlonAmy CDN Allow List
 ! Expires: 1 days (update frequency)
 
@@ -33,6 +33,7 @@
 * cdn.slaask.com * noop
 * hb.vntsm.com * noop
 * cdn.wzb.lv * noop
+* licdn.com * noob
 
 ! --------------------------Others-----------------------------!
 * yimg.com * noop
