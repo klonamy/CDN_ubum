@@ -1,4 +1,4 @@
-! Version: 0.1.5
+! Version: 0.1.6
 ! Title: KlonAmy CDN Allow List
 ! Expires: 1 days (update frequency)
 
@@ -35,12 +35,18 @@
 * cdn.wzb.lv * noop
 * licdn.com * noob
 
-! --------------------------Others-----------------------------!
+! --------------------------YT/Video/Streaming-----------------------------!
+* twitch.tv * noob
 * yimg.com * noop
+* vimeo.com * noop
+* vimeocdn.com * noop
+
+! --------------------------Others-----------------------------!
+
 * cursetech.com * noop
 * creativecommons.org * noop
 * stripe.com * noop
-* twitch.tv * noob
+
 
 ! --------------------------Template-----------------------------!
 *  * noop
