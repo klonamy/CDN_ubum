@@ -1,4 +1,4 @@
-! Version: 0.1.6
+! Version: 0.1.7
 ! Title: KlonAmy CDN Allow List
 ! Expires: 1 days (update frequency)
 
@@ -47,6 +47,10 @@
 * creativecommons.org * noop
 * stripe.com * noop
 
+! --------------------------Recaptcha-----------------------------!
+* https://www.google.com/recaptcha/ * noop
+* https://www.gstatic.com/recaptcha/ * noop
+* https://www.google.com/recaptcha/ * noop
 
 ! --------------------------Template-----------------------------!
 *  * noop
