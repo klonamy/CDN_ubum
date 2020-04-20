@@ -1,5 +1,5 @@
 ! Version: 0.1.7
-! Title: KlonAmy CDN Allow List
+! Title: KlonAmy CDN Allow List (uBlock)
 ! Expires: 1 days (update frequency)
 
 ! --------------------------General rules-----------------------------!
