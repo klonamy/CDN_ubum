@@ -1,4 +1,4 @@
-! Version: 0.1.8
+! Version: 0.1.9
 ! Title: KlonAmy CDN Allow List (uBlock)
 ! Expires: 1 days (update frequency)
 
@@ -19,7 +19,10 @@
 * sdn.geekzu.org * allow
 * ajax.proxy.ustclug.org * allow
 
-! --------------------------CDN?-----------------------------!
+! --------------------------Virenscanner-----------------------------!
+*.kaspersky-labs.com allow
+
+! --------------------------CDNs-----------------------------!
 * aolcdn.com * allow
 * vidible.tv * allow
 * aiv-cdn.net * allow
@@ -42,7 +45,6 @@
 * vimeocdn.com * allow
 
 ! --------------------------Others-----------------------------!
-
 * cursetech.com * allow
 * creativecommons.org * allow
 * stripe.com * allow
